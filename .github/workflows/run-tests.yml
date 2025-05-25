@@ -30,7 +30,8 @@ jobs:
       - name: Generate Allure Report
         run: |
           npm run report
-          cp -r allure-report/* allure-report/
+          mkdir -p docs/reports
+          cp -r allure-report/* docs/reports/allure-report/
         if: always()
         
       - name: Deploy to GitHub Pages
@@ -38,5 +39,5 @@ jobs:
         if: always()
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./allure-report
+          publish_dir: ./docs
           publish_branch: gh-pages 
