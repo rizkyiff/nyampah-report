@@ -1,0 +1,149 @@
+{
+  "uuid": "c6d01321-a686-49e1-baa3-976790e72994",
+  "historyId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "status": "broken",
+  "statusDetails": {
+    "message": "this.generateRandomCarName is not a function",
+    "trace": "TypeError: this.generateRandomCarName is not a function\n    at base.actionAddNewCar (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/pageobjects/base/base.page.js:155:36)\n    at async file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/homeService/e2e.homeservis.spec.js:34:17\n    at async steps (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/helper/allureHelper.js:90:13)\n    at async Context.<anonymous> (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/homeService/e2e.homeservis.spec.js:31:9)\n    at async Context.executeAsync (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1016:20)\n    at async Context.testFrameworkFnWrapper (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1087:14)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747906161791,
+          "name": "Expected Result: berhasil login",
+          "stop": 1747906161791
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "3614a5db-84e0-47e5-ad97-875a57da5137-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747906161791,
+      "name": "melakukan login",
+      "stop": 1747906175715
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747906175715,
+          "name": "Expected Result: berhasil memilih kategori home service",
+          "stop": 1747906175715
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori home service",
+          "type": "image/png",
+          "source": "a8598395-2f55-4030-b4e9-91ba135f1c45-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747906175715,
+      "name": "memilih kategori home service",
+      "stop": 1747906184156
+    },
+    {
+      "status": "failed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747906184156,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1747906184156
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "8a4fad67-c33d-401a-a264-bb0d400f26d2-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747906184156,
+      "name": "tambah mobil baru",
+      "stop": 1747906198160
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.homeService.e2e.homeservis.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "feature",
+      "value": "e2e home service"
+    },
+    {
+      "name": "story",
+      "value": "POFT-326"
+    },
+    {
+      "name": "subSuite",
+      "value": "POFT-338"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "Syahrul_repo"
+    }
+  ],
+  "links": [],
+  "start": 1747906161788,
+  "name": "Sebagai user, saya dapat melakukan booking home service",
+  "testCaseId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "stop": 1747906198168
+}

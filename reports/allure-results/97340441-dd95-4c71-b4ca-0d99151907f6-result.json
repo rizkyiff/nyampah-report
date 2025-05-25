@@ -1,0 +1,273 @@
+{
+  "uuid": "97340441-dd95-4c71-b4ca-0d99151907f6",
+  "historyId": "42ccc36cbc7c2ef715e328465ae63937",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892144300,
+          "name": "Expected Result: berhasil login",
+          "stop": 1747892144300
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "750816fa-01a7-480f-8fed-97194963f3e5-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892144300,
+      "name": "melakukan login",
+      "stop": 1747892157303
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892157303,
+          "name": "Expected Result: berhasil memilih produk",
+          "stop": 1747892157303
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih produk aksesoris",
+          "type": "image/png",
+          "source": "9e8b9245-a4e8-463c-ae10-b5652ce2455d-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892157303,
+      "name": "memilih produk aksesoris",
+      "stop": 1747892174310
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892174310,
+          "name": "Expected Result: berhasil memilih cabang",
+          "stop": 1747892174310
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih cabang",
+          "type": "image/png",
+          "source": "b5e1998b-768f-408a-a3b3-b2015c37b688-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892174310,
+      "name": "memilih cabang",
+      "stop": 1747892179037
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892179037,
+          "name": "Expected Result: berhasil memilih metode pengiriman",
+          "stop": 1747892179037
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih metode pengiriman",
+          "type": "image/png",
+          "source": "91c18452-4f27-434a-b925-5b19397516d6-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892179037,
+      "name": "memilih metode pengiriman",
+      "stop": 1747892182359
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892182359,
+          "name": "Expected Result: berhasil memilih mobil",
+          "stop": 1747892182359
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih mobil",
+          "type": "image/png",
+          "source": "ccf22177-768b-4fec-9e4a-1e24f5e0f476-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892182359,
+      "name": "memilih mobil",
+      "stop": 1747892195001
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892195001,
+          "name": "Expected Result: berhasil memilih waktu",
+          "stop": 1747892195001
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih waktu",
+          "type": "image/png",
+          "source": "ad7c2e2d-f348-4bf0-ac7b-e292349e4b66-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892195001,
+      "name": "memilih waktu",
+      "stop": 1747892199562
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892199562,
+          "name": "Expected Result: berhasil melakukan pembayaran",
+          "stop": 1747892199562
+        },
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747892207611,
+          "name": "Payment Completion",
+          "stop": 1747892207611
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan pembayaran",
+          "type": "image/png",
+          "source": "fa836314-ba50-46d1-885d-a6bda8ecae8b-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747892199562,
+      "name": "melakukan pembayaran",
+      "stop": 1747892207922
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.aksesoris.e2e.aksesoris.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e"
+    },
+    {
+      "name": "feature",
+      "value": "e2e"
+    },
+    {
+      "name": "story",
+      "value": "POFT-326"
+    },
+    {
+      "name": "subSuite",
+      "value": "POFT-338"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "Syahrul_repo"
+    }
+  ],
+  "links": [],
+  "start": 1747892144297,
+  "name": "Sebagai user, saya dapat melakukan pembelian aksesoris dan pembayaran",
+  "testCaseId": "42ccc36cbc7c2ef715e328465ae63937",
+  "stop": 1747892207923
+}

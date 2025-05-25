@@ -1,0 +1,178 @@
+{
+  "uuid": "6b52fe8d-57ad-431d-be51-d2f8f194753c",
+  "historyId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "status": "broken",
+  "statusDetails": {
+    "message": "Failed to make element visible after 5 attempts",
+    "trace": "Error: Failed to make element visible after 5 attempts\n    at base.retryClickUntilElementVisible (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/pageobjects/base/base.page.js:191:15)\n    at async HomeServisPage.actionSelectServiceType (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/pageobjects/homeServis/homeservis.page.js:87:9)\n    at async file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/homeService/e2e.homeservis.spec.js:42:17\n    at async steps (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/helper/allureHelper.js:90:13)\n    at async Context.<anonymous> (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/homeService/e2e.homeservis.spec.js:39:9)\n    at async Context.executeAsync (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1016:20)\n    at async Context.testFrameworkFnWrapper (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1087:14)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747908230032,
+          "name": "Expected Result: berhasil login",
+          "stop": 1747908230032
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "42a42722-a3ac-4e1a-b25a-858039ee4732-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747908230032,
+      "name": "melakukan login",
+      "stop": 1747908243497
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747908243497,
+          "name": "Expected Result: berhasil memilih kategori home service",
+          "stop": 1747908243497
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori home service",
+          "type": "image/png",
+          "source": "df83af98-bcb5-4519-8583-0137e48ba056-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747908243497,
+      "name": "memilih kategori home service",
+      "stop": 1747908251576
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747908251576,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1747908251576
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "5883de2c-7556-448b-8a59-33f96c64e290-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747908251576,
+      "name": "tambah mobil baru",
+      "stop": 1747908270438
+    },
+    {
+      "status": "failed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1747908270438,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1747908270438
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "34ab2055-cf73-4b47-99b5-fd32ac6bc281-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1747908270438,
+      "name": "memilih jenis servis",
+      "stop": 1747908280986
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.homeService.e2e.homeservis.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "feature",
+      "value": "e2e home service"
+    },
+    {
+      "name": "story",
+      "value": "POFT-326"
+    },
+    {
+      "name": "subSuite",
+      "value": "POFT-338"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "Syahrul_repo"
+    }
+  ],
+  "links": [],
+  "start": 1747908230029,
+  "name": "Sebagai user, saya dapat melakukan booking home service",
+  "testCaseId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "stop": 1747908280995
+}

@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","68241","Sebagai user, saya dapat melakukan booking home service","","Sun May 25 10:43:45 WIB 2025","passed","Sun May 25 10:44:53 WIB 2025","POFT-338","e2e home service","",""
+"","65729","Sebagai user, saya dapat melakukan pembelian aksesoris dan pembayaran","","Thu May 22 12:51:38 WIB 2025","passed","Thu May 22 12:52:44 WIB 2025","POFT-338","e2e","",""
+"","63266","Sebagai user, saya dapat melakukan pembelian aksesoris dan pembayaran","","Thu May 22 12:54:35 WIB 2025","passed","Thu May 22 12:55:38 WIB 2025","POFT-338","e2e aksesoris","",""
+"","103615","Sebagai user, saya dapat melakukan pembelian aksesoris dan pembayaran","","Thu May 22 12:24:32 WIB 2025","passed","Thu May 22 12:26:16 WIB 2025","POFT-338","e2e accs","",""

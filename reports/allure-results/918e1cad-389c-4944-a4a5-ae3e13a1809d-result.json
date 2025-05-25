@@ -1,0 +1,236 @@
+{
+  "uuid": "918e1cad-389c-4944-a4a5-ae3e13a1809d",
+  "historyId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "status": "broken",
+  "statusDetails": {
+    "message": "element (\"-android uiautomator:new UiSelector().text(\"KONFIRMASI PESANAN\")\") still not displayed after 10000ms",
+    "trace": "Error: element (\"-android uiautomator:new UiSelector().text(\"KONFIRMASI PESANAN\")\") still not displayed after 10000ms\n    at <anonymous> (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\webdriverio\\build\\node.js:5576:15)\n    at async Element.wrapCommandFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:893:23)\n    at async Element.elementErrorHandlerCallbackFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\webdriverio\\build\\node.js:8178:24)\n    at async Element.wrapCommandFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:893:23)\n    at async Element.wrapCommandFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:893:23)\n    at async Element.elementErrorHandlerCallbackFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\webdriverio\\build\\node.js:8178:24)\n    at async Element.wrapCommandFn (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:893:23)\n    at async HomeServisPage.verifyDetailBooking (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/pageobjects/homeServis/homeservis.page.js:106:9)\n    at async file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/homeService/e2e.homeservis.spec.js:59:17\n    at async steps (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/helper/allureHelper.js:90:13)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144511002,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748144511002
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "30ba23b0-654a-4d82-896a-514f918de88f-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144511002,
+      "name": "melakukan login",
+      "stop": 1748144523706
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144523706,
+          "name": "Expected Result: berhasil memilih kategori home service",
+          "stop": 1748144523706
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori home service",
+          "type": "image/png",
+          "source": "9f1770fc-3283-4b87-97f0-fab0f0e1feec-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144523706,
+      "name": "memilih kategori home service",
+      "stop": 1748144532323
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144532323,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1748144532323
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "968c3f2a-bb24-4811-ae61-99ca0d93f4f5-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144532323,
+      "name": "tambah mobil baru",
+      "stop": 1748144550940
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144550940,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1748144550940
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "598be077-d7a3-45ef-884e-be57acf4d936-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144550940,
+      "name": "memilih jenis servis",
+      "stop": 1748144558460
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144558460,
+          "name": "Expected Result: berhasil memilih lokasi dan waktu servis",
+          "stop": 1748144558460
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih lokasi dan waktu servis",
+          "type": "image/png",
+          "source": "5026a5e4-41e1-4c3b-8590-c45ed91bea0f-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144558460,
+      "name": "memilih lokasi dan waktu servis",
+      "stop": 1748144569592
+    },
+    {
+      "status": "failed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144569592,
+          "name": "Expected Result: berhasil konfirmasi booking",
+          "stop": 1748144569592
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - konfirmasi booking",
+          "type": "image/png",
+          "source": "76c66ef2-f847-4822-bffb-354905e1eb71-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144569592,
+      "name": "konfirmasi booking",
+      "stop": 1748144580435
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.homeService.e2e.homeservis.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "feature",
+      "value": "e2e home service"
+    },
+    {
+      "name": "story",
+      "value": "POFT-326"
+    },
+    {
+      "name": "subSuite",
+      "value": "POFT-338"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "Syahrul_repo"
+    }
+  ],
+  "links": [],
+  "start": 1748144510999,
+  "name": "Sebagai user, saya dapat melakukan booking home service",
+  "testCaseId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "stop": 1748144580487
+}
