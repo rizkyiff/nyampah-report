@@ -1,0 +1,40 @@
+name: Run Tests and Deploy Allure Report
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Run tests
+        run: npm test
+        
+      - name: Generate Allure Report
+        uses: simple-elf/allure-report-action@master
+        if: always()
+        with:
+          allure_results: ./allure-results
+          keep_reports: true
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
+          publish_branch: gh-pages 
