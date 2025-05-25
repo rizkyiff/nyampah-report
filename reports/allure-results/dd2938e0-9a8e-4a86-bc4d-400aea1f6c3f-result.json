@@ -1,0 +1,279 @@
+{
+  "uuid": "dd2938e0-9a8e-4a86-bc4d-400aea1f6c3f",
+  "historyId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144625199,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748144625199
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "1868acd5-41ef-490d-8dc3-cab54f6bd7c3-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144625199,
+      "name": "melakukan login",
+      "stop": 1748144638572
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144638572,
+          "name": "Expected Result: berhasil memilih kategori home service",
+          "stop": 1748144638572
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori home service",
+          "type": "image/png",
+          "source": "e5ebe318-3c9d-4d23-abc0-ccca505d327f-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144638572,
+      "name": "memilih kategori home service",
+      "stop": 1748144646644
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144646644,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1748144646644
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "a0546e71-58e8-485d-8625-b4d8aa14e48a-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144646644,
+      "name": "tambah mobil baru",
+      "stop": 1748144665310
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144665310,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1748144665310
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "52755711-041c-4c17-82ff-5388ffb3adee-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144665310,
+      "name": "memilih jenis servis",
+      "stop": 1748144672491
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144672491,
+          "name": "Expected Result: berhasil memilih lokasi dan waktu servis",
+          "stop": 1748144672491
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih lokasi dan waktu servis",
+          "type": "image/png",
+          "source": "246d705f-c717-420b-952f-90f9727930b0-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144672491,
+      "name": "memilih lokasi dan waktu servis",
+      "stop": 1748144681260
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144681260,
+          "name": "Expected Result: berhasil konfirmasi booking",
+          "stop": 1748144681260
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - konfirmasi booking",
+          "type": "image/png",
+          "source": "04c9aa08-4976-4785-966a-9d3f1be0de75-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144681260,
+      "name": "konfirmasi booking",
+      "stop": 1748144688192
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748144688192,
+          "name": "Expected Result: booking berhasil diproses",
+          "stop": 1748144688192
+        },
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [
+            {
+              "name": "Booking Details",
+              "type": "application/json",
+              "source": "a2288eb8-2c14-4844-ae16-0cfe121fe2fb-attachment.json"
+            }
+          ],
+          "parameters": [],
+          "start": 1748144693158,
+          "name": "Booking Success - Order: Nomor Pesanan#THS202500001412",
+          "stop": 1748144693158
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - verifikasi booking berhasil",
+          "type": "image/png",
+          "source": "0dc27cdf-91fc-4ce6-aced-8d280512deb2-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748144688192,
+      "name": "verifikasi booking berhasil",
+      "stop": 1748144693436
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.homeService.e2e.homeservis.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "feature",
+      "value": "e2e home service"
+    },
+    {
+      "name": "story",
+      "value": "POFT-326"
+    },
+    {
+      "name": "subSuite",
+      "value": "POFT-338"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "Syahrul_repo"
+    }
+  ],
+  "links": [],
+  "start": 1748144625196,
+  "name": "Sebagai user, saya dapat melakukan booking home service",
+  "testCaseId": "4512c4fd9469b6b74a7c9d80aedfa607",
+  "stop": 1748144693437
+}
