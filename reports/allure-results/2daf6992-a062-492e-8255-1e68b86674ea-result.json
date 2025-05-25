@@ -1,0 +1,349 @@
+{
+  "uuid": "2daf6992-a062-492e-8255-1e68b86674ea",
+  "historyId": "9384d08a9f9fc4f6c37dc02f2c02f176",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183143640,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748183143640
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "3b659579-c40e-4f25-b883-1eb6ff0bf457-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183143639,
+      "name": "melakukan login",
+      "stop": 1748183156982
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183156982,
+          "name": "Expected Result: berhasil membuka halaman edit profil",
+          "stop": 1748183156982
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - navigasi ke halaman edit profil",
+          "type": "image/png",
+          "source": "b16435a6-87bd-4adb-b9f1-882417e90ccc-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183156982,
+      "name": "navigasi ke halaman edit profil",
+      "stop": 1748183167832
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183167832,
+          "name": "Expected Result: berhasil mengubah informasi personal",
+          "stop": 1748183167832
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah informasi personal",
+          "type": "image/png",
+          "source": "f1cdbc84-b442-47be-9a4c-85d62285c5db-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183167832,
+      "name": "mengubah informasi personal",
+      "stop": 1748183173441
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183173441,
+          "name": "Expected Result: berhasil mengubah alamat",
+          "stop": 1748183173441
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah alamat",
+          "type": "image/png",
+          "source": "9f54d65f-12a9-4e34-b6d2-e1550877c4e4-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183173441,
+      "name": "mengubah alamat",
+      "stop": 1748183185044
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183185044,
+          "name": "Expected Result: berhasil mengubah informasi pekerjaan",
+          "stop": 1748183185044
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah informasi pekerjaan",
+          "type": "image/png",
+          "source": "bba36449-4e08-4c40-9a03-674ab2c749a1-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183185044,
+      "name": "mengubah informasi pekerjaan",
+      "stop": 1748183196695
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183196695,
+          "name": "Expected Result: berhasil mengubah industri",
+          "stop": 1748183196695
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah industri",
+          "type": "image/png",
+          "source": "b1de5d38-a4f4-4d3e-a0ff-65a776029e87-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183196695,
+      "name": "mengubah industri",
+      "stop": 1748183207668
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183207668,
+          "name": "Expected Result: berhasil mengubah hobi",
+          "stop": 1748183207668
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah hobi",
+          "type": "image/png",
+          "source": "983baf5d-ded2-4f65-8664-e9d539619a90-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183207668,
+      "name": "mengubah hobi",
+      "stop": 1748183226857
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183226857,
+          "name": "Expected Result: berhasil mengubah makanan, minuman, dan warna favorit",
+          "stop": 1748183226857
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mengubah makanan, minuman, dan warna favorit",
+          "type": "image/png",
+          "source": "f6a9b45e-f44b-4f66-a7a0-3b7a01f2d702-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183226857,
+      "name": "mengubah makanan, minuman, dan warna favorit",
+      "stop": 1748183233243
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183233243,
+          "name": "Expected Result: berhasil menyimpan perubahan profil",
+          "stop": 1748183233243
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - menyimpan perubahan profil",
+          "type": "image/png",
+          "source": "824f91e0-1058-43e9-9579-31e04ea1e075-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183233243,
+      "name": "menyimpan perubahan profil",
+      "stop": 1748183233926
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183233926,
+          "name": "Expected Result: berhasil memverifikasi perubahan profil",
+          "stop": 1748183233926
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - verifikasi perubahan profil",
+          "type": "image/png",
+          "source": "9bf87397-31dd-49fa-a486-03db25da3dd4-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183233926,
+      "name": "verifikasi perubahan profil",
+      "stop": 1748183248599
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.profile.e2e.profile.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-3"
+    },
+    {
+      "name": "suite",
+      "value": "e2e update profile"
+    },
+    {
+      "name": "feature",
+      "value": "e2e update profile"
+    },
+    {
+      "name": "story",
+      "value": "e2e update profile"
+    },
+    {
+      "name": "subSuite",
+      "value": "e2e update profile"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "update profile"
+    }
+  ],
+  "links": [],
+  "start": 1748183143636,
+  "name": "Sebagai user, saya dapat mengubah profil saya",
+  "testCaseId": "9384d08a9f9fc4f6c37dc02f2c02f176",
+  "stop": 1748183248600
+}
