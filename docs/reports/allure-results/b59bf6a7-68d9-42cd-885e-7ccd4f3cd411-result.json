@@ -1,0 +1,262 @@
+{
+  "uuid": "b59bf6a7-68d9-42cd-885e-7ccd4f3cd411",
+  "historyId": "6d1f7fcc8c8d11eb65d1fbd938e2a113",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183097866,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748183097866
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "344f2b27-3f68-490b-bc6e-ee6682e556b2-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183097866,
+      "name": "melakukan login",
+      "stop": 1748183111053
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183111053,
+          "name": "Expected Result: berhasil buka page kategori",
+          "stop": 1748183111053
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - buka kategori",
+          "type": "image/png",
+          "source": "de92e082-4b28-4f63-a227-c025ac48b1cd-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183111053,
+      "name": "buka kategori",
+      "stop": 1748183117305
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183117305,
+          "name": "Expected Result: berhasil memilih mobil AGYA",
+          "stop": 1748183117305
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - mencari dan memilih mobil",
+          "type": "image/png",
+          "source": "d92dff7c-a177-4e96-87cd-fb31aa679333-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183117305,
+      "name": "mencari dan memilih mobil",
+      "stop": 1748183122354
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183122354,
+          "name": "Expected Result: berhasil memilih mobil untuk dibeli",
+          "stop": 1748183122354
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan view detail dan pilih mobil",
+          "type": "image/png",
+          "source": "64317bea-a184-4e0a-829f-4ac4da8a7a7b-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183122354,
+      "name": "melakukan view detail dan pilih mobil",
+      "stop": 1748183126465
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183126465,
+          "name": "Expected Result: berhasil memilih dealer Auto2000 Yos Sudarso",
+          "stop": 1748183126465
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih dealer",
+          "type": "image/png",
+          "source": "f7a40234-7e0a-45d7-a373-393ce37967e6-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183126465,
+      "name": "memilih dealer",
+      "stop": 1748183130993
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183130993,
+          "name": "Expected Result: berhasil melengkapi proses preorder",
+          "stop": 1748183130993
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melengkapi proses preorder",
+          "type": "image/png",
+          "source": "d39451f5-9965-4e82-a46e-3d67aa7b4dd1-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183130993,
+      "name": "melengkapi proses preorder",
+      "stop": 1748183137305
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183137305,
+          "name": "Expected Result: berhasil memverifikasi pesan error",
+          "stop": 1748183137305
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - verifikasi pesan error",
+          "type": "image/png",
+          "source": "fbe703d2-fa85-44d2-b475-7d6f33539aa9-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183137305,
+      "name": "verifikasi pesan error",
+      "stop": 1748183137634
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.mobilBaru.e2e.preorder.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-2"
+    },
+    {
+      "name": "suite",
+      "value": "e2e preorder mobil baru (blocker)"
+    },
+    {
+      "name": "feature",
+      "value": "e2e preorder mobil baru (blocker)"
+    },
+    {
+      "name": "story",
+      "value": "e2e preorder mobil baru"
+    },
+    {
+      "name": "subSuite",
+      "value": "e2e preorder mobil baru"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "preorder mobil baru"
+    }
+  ],
+  "links": [],
+  "start": 1748183097863,
+  "name": "Sebagai user, saya dapat melakukan preorder mobil baru",
+  "testCaseId": "6d1f7fcc8c8d11eb65d1fbd938e2a113",
+  "stop": 1748183137635
+}

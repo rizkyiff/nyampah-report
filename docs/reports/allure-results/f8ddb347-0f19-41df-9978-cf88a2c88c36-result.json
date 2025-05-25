@@ -1,0 +1,308 @@
+{
+  "uuid": "f8ddb347-0f19-41df-9978-cf88a2c88c36",
+  "historyId": "a6430d90cff828e4b76493598ffd14f1",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748182985661,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748182985661
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "2884a84f-9f4f-4c8a-afaf-ee7aeca66755-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748182985661,
+      "name": "melakukan login",
+      "stop": 1748182998448
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748182998448,
+          "name": "Expected Result: berhasil buka page kategori",
+          "stop": 1748182998448
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - buka kategori",
+          "type": "image/png",
+          "source": "f0ec8bd5-e0a3-4c15-a0d7-251138e79c89-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748182998448,
+      "name": "buka kategori",
+      "stop": 1748183006971
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183006971,
+          "name": "Expected Result: berhasil memilih kategori home service",
+          "stop": 1748183006971
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori home service",
+          "type": "image/png",
+          "source": "5c966cc4-31e9-4919-be89-a424c30e0ca7-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183006971,
+      "name": "memilih kategori home service",
+      "stop": 1748183007783
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183007783,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1748183007783
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "67ae74ca-16ce-4600-a860-edb2c9743dbe-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183007783,
+      "name": "tambah mobil baru",
+      "stop": 1748183025524
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183025524,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1748183025524
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "1d65cd8a-cc34-46ab-a612-576a7503434c-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183025524,
+      "name": "memilih jenis servis",
+      "stop": 1748183033358
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183033358,
+          "name": "Expected Result: berhasil memilih lokasi dan waktu servis",
+          "stop": 1748183033358
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih lokasi dan waktu servis",
+          "type": "image/png",
+          "source": "818b6fcc-8260-4bc1-8843-02eafa796b71-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183033358,
+      "name": "memilih lokasi dan waktu servis",
+      "stop": 1748183042743
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183042743,
+          "name": "Expected Result: berhasil konfirmasi booking",
+          "stop": 1748183042743
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - konfirmasi booking",
+          "type": "image/png",
+          "source": "f0a1a9c1-477b-4f48-9fe0-422c5e613f04-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183042743,
+      "name": "konfirmasi booking",
+      "stop": 1748183058748
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748183058748,
+          "name": "Expected Result: booking berhasil diproses",
+          "stop": 1748183058748
+        },
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [
+            {
+              "name": "Booking Details",
+              "type": "application/json",
+              "source": "02e27ae0-ee3c-4f09-b08a-bbf1c9e90142-attachment.json"
+            }
+          ],
+          "parameters": [],
+          "start": 1748183091604,
+          "name": "Booking Success - Order: Nomor Pesanan#THS202500001416",
+          "stop": 1748183091604
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - verifikasi booking berhasil",
+          "type": "image/png",
+          "source": "06b6e2df-2fb0-41f7-92de-9a4d5f7e23a3-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748183058748,
+      "name": "verifikasi booking berhasil",
+      "stop": 1748183091903
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.homeService.e2e.homeservis.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-1"
+    },
+    {
+      "name": "suite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "feature",
+      "value": "e2e home service"
+    },
+    {
+      "name": "story",
+      "value": "home service"
+    },
+    {
+      "name": "subSuite",
+      "value": "e2e home service"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "home service"
+    }
+  ],
+  "links": [],
+  "start": 1748182985656,
+  "name": "Sebagai user, saya dapat melakukan booking home service",
+  "testCaseId": "a6430d90cff828e4b76493598ffd14f1",
+  "stop": 1748183091903
+}
