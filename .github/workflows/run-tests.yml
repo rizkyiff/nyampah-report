@@ -31,8 +31,7 @@ jobs:
         run: |
           npm run report
           mkdir -p docs/reports
-          rm -rf docs/reports/allure-report
-          mv allure-report docs/reports/
+          cp -r allure-report/* docs/reports/allure-report/
         if: always()
         
       - name: Deploy to GitHub Pages
