@@ -1,0 +1,279 @@
+{
+  "uuid": "2fa17757-690e-4464-9431-88e73a46b316",
+  "historyId": "a0fe03fca70b9b1e29e6f27f681039de",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222528252,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748222528252
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "73b3ad77-33ff-42d1-b59d-88d7a2b7e36c-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222528252,
+      "name": "melakukan login",
+      "stop": 1748222540839
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222540839,
+          "name": "Expected Result: berhasil buka page kategori",
+          "stop": 1748222540839
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - buka kategori",
+          "type": "image/png",
+          "source": "1e404139-e833-40ba-bbf5-eceea23865d7-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222540839,
+      "name": "buka kategori",
+      "stop": 1748222546718
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222546719,
+          "name": "Expected Result: berhasil memilih kategori layanan bengkel",
+          "stop": 1748222546719
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori layanan bengkel",
+          "type": "image/png",
+          "source": "19e98b86-eb24-482b-a53b-c922d072e064-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222546718,
+      "name": "memilih kategori layanan bengkel",
+      "stop": 1748222547292
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222547292,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1748222547292
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "2787d819-c4a8-400b-b56c-7a4376c0244d-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222547292,
+      "name": "tambah mobil baru",
+      "stop": 1748222564685
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222564685,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1748222564685
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "ea76f035-c614-4a7e-bf11-cc3c5e65546a-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222564685,
+      "name": "memilih jenis servis",
+      "stop": 1748222570795
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222570796,
+          "name": "Expected Result: berhasil memilih lokasi dan waktu servis",
+          "stop": 1748222570796
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih lokasi dan waktu servis",
+          "type": "image/png",
+          "source": "88872701-338e-481c-9de9-913a0516d301-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222570795,
+      "name": "memilih lokasi dan waktu servis",
+      "stop": 1748222588939
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748222588939,
+          "name": "Expected Result: berhasil konfirmasi booking",
+          "stop": 1748222588939
+        },
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [
+            {
+              "name": "Booking Details",
+              "type": "application/json",
+              "source": "50fa2dd9-b77d-4ac0-b0ee-1a5dd8c2fdd7-attachment.json"
+            }
+          ],
+          "parameters": [],
+          "start": 1748222595061,
+          "name": "Booking Success - Order: Nomor Pesanan#T002SFG25004451",
+          "stop": 1748222595062
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - konfirmasi booking",
+          "type": "image/png",
+          "source": "507aa9f1-4a7e-4a5f-b0f8-892d7cd85459-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748222588939,
+      "name": "konfirmasi booking",
+      "stop": 1748222595378
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.layananBengkel.e2e.layananBengkel.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "feature",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "story",
+      "value": "layanan bengkel"
+    },
+    {
+      "name": "subSuite",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "layanan bengkel"
+    }
+  ],
+  "links": [],
+  "start": 1748222528249,
+  "name": "Sebagai user, saya dapat melakukan booking layanan bengkel",
+  "testCaseId": "a0fe03fca70b9b1e29e6f27f681039de",
+  "stop": 1748222595379
+}

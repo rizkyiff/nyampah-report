@@ -1,0 +1,236 @@
+{
+  "uuid": "131502aa-c812-49b8-8e75-4531243b2495",
+  "historyId": "a0fe03fca70b9b1e29e6f27f681039de",
+  "status": "broken",
+  "statusDetails": {
+    "message": "Gesture is not defined",
+    "trace": "ReferenceError: Gesture is not defined\n    at LayananBengkelPage.selectBranchAndTime (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/pageobjects/layananBengkel/layananBengkel.page.js:150:9)\n    at async file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/layananBengkel/e2e.layananBengkel.spec.js:59:17\n    at async steps (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/helper/allureHelper.js:90:13)\n    at async Context.<anonymous> (file:///D:/Coding/atmobilenew/atsqa.mob.oddyseus-TSO/test/specs/layananBengkel/e2e.layananBengkel.spec.js:56:9)\n    at async Context.executeAsync (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1016:20)\n    at async Context.testFrameworkFnWrapper (D:\\Coding\\atmobilenew\\atsqa.mob.oddyseus-TSO\\node_modules\\@wdio\\utils\\build\\index.js:1087:14)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219891855,
+          "name": "Expected Result: berhasil login",
+          "stop": 1748219891855
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - melakukan login",
+          "type": "image/png",
+          "source": "aade1856-da9e-4ec7-aa98-cc61958e60f6-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219891855,
+      "name": "melakukan login",
+      "stop": 1748219904322
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219904322,
+          "name": "Expected Result: berhasil buka page kategori",
+          "stop": 1748219904322
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - buka kategori",
+          "type": "image/png",
+          "source": "4223d847-0e27-417e-83c7-e22056a644c6-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219904322,
+      "name": "buka kategori",
+      "stop": 1748219910237
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219910237,
+          "name": "Expected Result: berhasil memilih kategori layanan bengkel",
+          "stop": 1748219910237
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih kategori layanan bengkel",
+          "type": "image/png",
+          "source": "969e0bd3-f007-4af6-b27d-a513ec73e952-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219910237,
+      "name": "memilih kategori layanan bengkel",
+      "stop": 1748219910741
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219910741,
+          "name": "Expected Result: berhasil tambah mobil baru",
+          "stop": 1748219910741
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - tambah mobil baru",
+          "type": "image/png",
+          "source": "b451a3b4-d7c2-4db7-801e-b7d6022fb172-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219910741,
+      "name": "tambah mobil baru",
+      "stop": 1748219928991
+    },
+    {
+      "status": "passed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219928991,
+          "name": "Expected Result: berhasil memilih jenis servis",
+          "stop": 1748219928991
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih jenis servis",
+          "type": "image/png",
+          "source": "528799aa-1251-4474-b781-d52bbbf79158-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219928991,
+      "name": "memilih jenis servis",
+      "stop": 1748219955566
+    },
+    {
+      "status": "failed",
+      "statusDetails": {},
+      "stage": "finished",
+      "steps": [
+        {
+          "status": "passed",
+          "statusDetails": {},
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1748219955566,
+          "name": "Expected Result: berhasil memilih lokasi dan waktu servis",
+          "stop": 1748219955566
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Screenshot - memilih lokasi dan waktu servis",
+          "type": "image/png",
+          "source": "281146c8-de71-427b-9b35-889a3c282f23-attachment.png"
+        }
+      ],
+      "parameters": [],
+      "start": 1748219955566,
+      "name": "memilih lokasi dan waktu servis",
+      "stop": 1748219956569
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "device",
+      "value": "CT40XP"
+    }
+  ],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "package",
+      "value": "D:.Coding.atmobilenew.atsqa.mob.oddyseus-TSO.test.specs.layananBengkel.e2e.layananBengkel.spec.js"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "feature",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "story",
+      "value": "layanan bengkel"
+    },
+    {
+      "name": "subSuite",
+      "value": "e2e layanan bengkel"
+    },
+    {
+      "name": "xrayRepository",
+      "value": "layanan bengkel"
+    }
+  ],
+  "links": [],
+  "start": 1748219891852,
+  "name": "Sebagai user, saya dapat melakukan booking layanan bengkel",
+  "testCaseId": "a0fe03fca70b9b1e29e6f27f681039de",
+  "stop": 1748219956579
+}
